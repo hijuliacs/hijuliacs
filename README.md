@@ -25,7 +25,8 @@
 
 ## 👩🏻‍💻 Technologies I'm learning
 
-<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="50cm" hspace="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="50cm" hspace="2" src="https://user-images.githubusercontent.com/119365652/205512437-78ed2837-2f0f-44c5-88ff-c834ffdc17bf.png"/>
+
 <br>
 </br>
 
