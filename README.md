@@ -17,8 +17,8 @@
 
 <div>
 <a href="https://github.com/hijuliacs">
-<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=dark"/>
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 </br>
