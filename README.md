@@ -23,5 +23,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 ## 📱 Minha redes sociais
 <div>
-<a href="https://www.linkedin.com/in/hijuliacss"/> <img height="50cm" src="https://user-images.githubusercontent.com/119365652/205476967-afdc6b09-4694-4d91-9374-37e168580eca.png"/> <a href="https://www.instagram.com/hijucs"/> <img height="50cm" hspace="10" src="https://user-images.githubusercontent.com/119365652/205476845-9f211c63-1cee-4991-8353-3bb7d88cd8df.png"/>
+<a href="https://www.linkedin.com/in/hijuliacss"/> <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> <a href="https://www.instagram.com/hijucs"/> <img height="50cm" hspace="10" src="https://user-images.githubusercontent.com/119365652/205476845-9f211c63-1cee-4991-8353-3bb7d88cd8df.png"/>
 </div>
