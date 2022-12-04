@@ -7,7 +7,7 @@
 
 <h1 align="left">👋🏻 Hi, welcome to my GitHub!</h1>
 
-<p>My name is <strong>Julia</strong>, I'm 21 years old and a <strong>Software Engineering</strong> student.</p>
+<p>My name is <strong>Julia</strong>, I'm 21 years old and I'm a <strong>Software Engineering</strong> student.</p>
 <p> <strong>Follow me</strong> on other social medias!</p>
 
 <div>
