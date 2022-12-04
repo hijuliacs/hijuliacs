@@ -10,7 +10,7 @@
 
 ## 💻 Tecnologias que estou aprendendo
 
-<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="50cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205474519-845c7b4c-7280-45e2-af67-933c60e54993.svg"/>
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="50cm" hspace="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br>
 </br>
 
