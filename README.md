@@ -20,8 +20,7 @@
 
 <div align="left">
 <a href="https://github.com/hijuliacs">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=nightowl"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <br>
   
