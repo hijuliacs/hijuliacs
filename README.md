@@ -10,30 +10,20 @@
 <p>My name is <strong>Julia</strong>, I'm 21 years old and I'm a <strong>Software Engineering</strong> student.</p>
 <p> <strong>Follow me</strong> on other social medias!</p>
 
+
 <div>
-<a href="https://www.linkedin.com/in/hijuliacss"/> <img height="30cm" src="https://user-images.githubusercontent.com/119365652/205510937-637483f2-4001-4ae7-a3ed-257d288f8e88.png"/> <a href="https://www.instagram.com/hijucs"/> <img height="30cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205510960-a9d09c66-b140-4a8e-bfd2-8f2e68fae17c.png"/>
+<a href="https://www.linkedin.com/in/hijuliacss"/> <img height="30cm" src="https://user-images.githubusercontent.com/119365652/205716315-2c1ffb8e-d1fa-48de-9144-21d83c293633.png"/> <a href="https://www.instagram.com/hijucs"/> <img height="30cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205716416-d6852ff6-14da-4a03-8f3d-9a9992035e76.png"/>
 </div>
 <br>
+
 </br>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/hijuliacs">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <br>
-</br>
-
-## 👩🏻‍💻 Technologies I'm learning
-
-<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="50cm" hspace="2" src="https://user-images.githubusercontent.com/119365652/205512437-78ed2837-2f0f-44c5-88ff-c834ffdc17bf.png"/>
-
+  
+<img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205512437-78ed2837-2f0f-44c5-88ff-c834ffdc17bf.png"/>
 <br>
-</br>
-
-## 🔍 Technologies I want to learn
-
-<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img height="50cm" hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img height="50cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> <img height="50cm" hspace="10"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<br>
-</br>
