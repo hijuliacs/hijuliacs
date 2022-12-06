@@ -26,7 +26,7 @@
 
 <p>I also want to learn technologies like Javascript, Typescript, React, Git and many others.</p>
 
-<img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> <img height="40cm" hspce="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <br>
 </br>
 <br>
@@ -37,5 +37,7 @@
 <p>I have a LinkedIn and an Instagram! On <strong>LinkedIn</strong> I post about my professional life, showing my followers what I'm learning, my achievements and my projects. And on <strong>Instagram</strong> I pretend to post humor content about programming, maybe in a few weeks I get to start there.</p>
 
 <div>
-<a href="https://www.linkedin.com/in/hijuliacss"/> <img height="50cm" src="https://user-images.githubusercontent.com/119365652/205716315-2c1ffb8e-d1fa-48de-9144-21d83c293633.png"/> <a href="https://www.instagram.com/hijucs"/> <img height="50cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205716416-d6852ff6-14da-4a03-8f3d-9a9992035e76.png"/>
+<a href="https://www.linkedin.com/in/hijuliacss"/> <img height="40cm" src="https://user-images.githubusercontent.com/119365652/205818858-eee4f725-8523-45c9-9d50-96b72f762d57.png"/> <a href="https://www.instagram.com/hijucs"/> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205818747-b651da6d-c41f-4bd2-bffb-3697891158d1.png"/>
 </div>
+
+
