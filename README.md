@@ -39,5 +39,3 @@
 <div>
 <a href="https://www.linkedin.com/in/hijuliacss"/> <img height="40cm" src="https://user-images.githubusercontent.com/119365652/205818858-eee4f725-8523-45c9-9d50-96b72f762d57.png"/> <a href="https://www.instagram.com/hijucs"/> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/205818747-b651da6d-c41f-4bd2-bffb-3697891158d1.png"/>
 </div>
-
-
