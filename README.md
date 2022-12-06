@@ -6,7 +6,7 @@
 
 <h1 align="left">👋🏻 Hi, welcome to my GitHub!</h1>
 
-<p>Feel free to visit all my repositories and see the projects I've made. I hope you like it! :)</p>
+<p>Feel free to visit all my repositories and see the projects I've done. I hope you like it! :)</p>
 <br>
 </br>
 
