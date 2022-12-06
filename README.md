@@ -12,7 +12,7 @@
 
 <h2>👩🏻 Who I am</h2>
 
-<p>My name is Julia, I'm 21 years old and I discovered my love for programming a little while ago. I entered and got out of countless colleges and courses because I was lost and didn't know what I like to do. On November 16th I enrolled in the Software Engineering course and started researching for simple projects to do, so I could see if programming is for me. And guess what? I LOVED IT! My first project was a landing page I made from a YouTube tutorial, I got so proud with the result and it was so fun to make that I realized this is what I want to work with.</p>
+<p>My name is Julia, I'm 21 years old and I discovered my love for programming a little while ago. I entered and got out of countless colleges and courses because I was lost and didn't know what I like to do. On November 16th I enrolled in the Software Engineering course and started researching for simple projects to do, so I could see if programming was for me. And guess what? I LOVED IT! My first project was a landing page I made from a YouTube tutorial, I got so proud with the result and it was so fun to make that I realized this is what I want to work with.</p>
 <br>
 </br>
 
