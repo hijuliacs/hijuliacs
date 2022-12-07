@@ -25,6 +25,6 @@
 <br>
 </br>
 
-<h2>📱 My social medias</h2>
+<h2>🔍 Find me</h2>
 
-<p>You can find all my social medias at my <a href="https://beacons.ai/hijucs">Beacons</a>.</p>
+<p>You can find all my social media profiles on my <a href="https://beacons.ai/hijucs">Beacons</a>.</p>
