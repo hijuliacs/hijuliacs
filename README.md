@@ -6,7 +6,7 @@
 
 <h1 align="left">👋🏻 Hi, welcome to my GitHub!</h1>
 
-<p>My name is Julia and I'm a Software Engineering student. My focus is Front-end so I'm learning how to code and design beautiful and useful layouts on my own, and I'm really engaged in it. Feel free to visit all my repositories and see the projects I've done. I hope you like it!</p>
+<p>My name is Julia and I'm a Software Engineering student. My focus is Front-end so I'm learning how to code and design beautiful and useful layouts on my own, and I'm really engaged in it. Feel free to visit all my repositories and see the projects I've done. I hope you like it! :)</p>
 <br>
 </br>
 
