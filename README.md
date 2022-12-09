@@ -1,29 +1,23 @@
 <br>
-</br>
-<img align="right" height="250cm" src="https://user-images.githubusercontent.com/119365652/205514146-ecaa3e88-089a-4804-b134-97b7a3924043.gif"/>
+<h1 align="center">hi, welcome to my github! 👋🏻</h1>
+
+<p align="center">feel free to visit my repositories and see my projects, i hope you like it :)</p>
 <br>
 </br>
 
-<h1 align="left">👋🏻 Hi, welcome to my GitHub!</h1>
-
-<p>My name is Julia and I'm a Software Engineering student. My focus is Front-end so I'm learning how to code and design beautiful and useful layouts on my own, and I'm really engaged in it. Feel free to visit all my repositories and see the projects I've done. I hope you like it! :)</p>
+<div align="center">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&theme=nightowl&show_icons=true"/>  
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 <br>
 </br>
 
-<h2>💻 My studies in programming</h2>
-
-<p>Currently I'm learning HTML, CSS, Figma and GitHub.</p>
-  
-<img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206275673-8d24b5a6-dd97-49b7-aa75-951a5ddcd3d6.png"/>
+<div align="center">
+<img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206595811-f1eebe26-b7ac-4ce6-b3c8-62b97104d9ce.png">
+</div>
 <br>
 </br>
 
-<p>I also want to learn technologies like Javascript, Typescript, React, Git and many others.</p>
-
-<img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<br>
-</br>
-
-<h2>🔍 Find me</h2>
-
-<p>You can find all my social media profiles on my <a href="https://beacons.ai/hijucs">Beacons</a>.</p>
+<div align="center">
+  <p><strong>follow me! 👇🏻</strong></p>
+<a href="https://www.linkedin.com/in/hijuliacs"> <img height="30cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206596463-2c5a958f-3290-4b7c-9770-fe45284f109a.png"> <a href="https://www.instagram.com/hijucs"> <img height="30cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206596351-a68c1b16-3d99-4065-82ac-dcdc6617267f.png">
