@@ -1,5 +1,5 @@
 <br>
-<img align="right" height="400cm" src="https://user-images.githubusercontent.com/119365652/206827222-a1e5495f-af2f-4597-86cd-adc5cda8bd07.gif" alt="julia-avatargif">
+<img align="right" height="350cm" src="https://user-images.githubusercontent.com/119365652/206827222-a1e5495f-af2f-4597-86cd-adc5cda8bd07.gif" alt="julia-avatargif">
 
 <br>
 <h1>Hello world! 👋🏻</h1>
