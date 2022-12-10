@@ -1,24 +1,13 @@
 <br>
-<h1 align="center">hi, welcome to my github! 👋🏻</h1>
+<img align="right" height="400cm" src="https://user-images.githubusercontent.com/119365652/206827222-a1e5495f-af2f-4597-86cd-adc5cda8bd07.gif" alt="julia-avatargif">
 
-<p align="center">feel free to visit my repositories and see my projects, i hope you like it :)</p>
 <br>
-</br>
-
-<div align="center">
-<a href="https://github.com/hijuliacs">
-<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&theme=nightowl&show_icons=true"/>  
-<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuliacs&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+<h1>Hello world! 👋🏻</h1>
+<p>Welcome to my GitHub, feel free to visit all my repositories. I hope you like it :)</p>
+<p>To know about me, please visit my <a href="https://www.linkedin.com/in/hijuliacs">LinkedIn</a> profile!</p>
 <br>
-</br>
 
-<div align="center">
-<img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206595811-f1eebe26-b7ac-4ce6-b3c8-62b97104d9ce.png">
-</div>
+<img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=ocean_dark">
 <br>
-</br>
 
-<div align="center">
-  <p><strong>follow me! 👇🏻</strong></p>
-<a href="https://www.linkedin.com/in/hijuliacs"> <img height="30cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206596463-2c5a958f-3290-4b7c-9770-fe45284f109a.png"> <a href="https://www.instagram.com/hijucs"> <img height="30cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206596351-a68c1b16-3d99-4065-82ac-dcdc6617267f.png">
+<img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206835865-fcf594ea-bd03-4d5d-acaf-c4a5c0c8cc67.png"/>
