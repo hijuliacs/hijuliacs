@@ -1,13 +1,17 @@
 <br>
-<img align="right" height="200cm" src="https://user-images.githubusercontent.com/119365652/206827222-a1e5495f-af2f-4597-86cd-adc5cda8bd07.gif" alt="julia-avatargif">
-
+<h2 align="left">Hi, welcome to my GitHub!</h2>
+<p align="left">👩🏻 I'm Julia, but you can call me Ju.</p>
+<p align="left">🎓 In less than 1 month I'll be doing my Systems Analysis and Development degree.</p>
+<p align="left">📚 Currently, I'm studying some technologies related to Full Stack Development and UI Design.</p>
 <br>
-<h1>Hello world! 👋🏻</h1>
-<p>Welcome to my GitHub, feel free to visit all my repositories. I hope you like it :)</p>
-<p>To know about me, please visit my <a href="https://www.linkedin.com/in/hijuliacs">LinkedIn</a> profile!</p>
-<br>
-
-<img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=ocean_dark">
 <br>
 
-<img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="40cm" hspace="5" src="https://user-images.githubusercontent.com/119365652/206835865-fcf594ea-bd03-4d5d-acaf-c4a5c0c8cc67.png"/>
+<div align="left">
+<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=ocean_dark">
+</div>
+<br>
+<br>
+
+<div align="left">
+<img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
