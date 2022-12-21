@@ -2,7 +2,7 @@
 <h2 align="left">Hi, welcome to my GitHub!</h2>
 <p align="left">👩🏻 I'm Julia, but you can call me Ju.</p>
 <p align="left">🎓 In less than 1 month I'll be doing my Systems Analysis and Development degree.</p>
-<p align="left">📚 Currently, I'm studying some technologies related to Full Stack Development..</p>
+<p align="left">📚 Currently, I'm studying some technologies related to Front-end Development..</p>
 <br>
 <br>
 
