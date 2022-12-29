@@ -1,8 +1,5 @@
 <br>
-<h2 align="left">Hi, welcome to my GitHub!</h2>
-<p align="left">👩🏻 I'm Julia, but you can call me Ju.</p>
-<p align="left">🎓 In less than 1 month I'll be doing my Systems Analysis and Development degree.</p>
-<p align="left">📚 Currently, I'm studying some technologies related to Front-end Development.</p>
+<p>Hi, I'm Julia! I'm a Front-end Developer and I'm currently an intern at Agência mtd. I work on my growth every day by studying with some free resources, while I wait for january to start my degree. I also intend to create content on Instagram and YouTube soon, posting personal pictures and humoristic videos on the first mentioned social media and gameplays on the second.</p>
 <br>
 <br>
 
