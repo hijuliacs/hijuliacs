@@ -1,5 +1,5 @@
 <h2 align="center">Hi, welcome to my GitHub profile! 😊</h2>
-<p align="center">I'm Julia, a Front-end Developer currently working at Agência Mtd. I'm also a k-pop and coke addicted, and I know that's not an important info but I wanted to tell anyway. 🤷🏻‍♀️</p>
+<p align="center">I'm Julia, a Front-end Developer currently working at Agência Mtd. I'm addicted to k-pop and coke and I know this is not an important info but I wanted to share it anyway. 🤷🏻‍♀️</p>
 <br>
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
