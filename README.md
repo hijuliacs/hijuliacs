@@ -1,5 +1,5 @@
 <h2 align="center">Oi, seja bem-vindo ao meu Github! 😊</h2>
-<p align="center">Meu nome é Julia, tenho 22 anos e sou estudante de Gestão Financeira.</p>
+<p align="center">Meu nome é Julia, tenho 23 anos e sou estudante de Engenharia de Software.</p>
 <br>
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hijuliacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
